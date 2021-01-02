@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 
 # Input stock-list:
 stocks_name = input("Enter the stock Names separated by a space > ").split()
+# stocks_name = ["SBIN", "RELIANCE", "ICICIBANK", "TITAN"]
 Stocks = stocks_name
-print(Stocks)
 
 
 def func(stocks):           # Passing list as a argument
@@ -60,6 +60,6 @@ def func(stocks):           # Passing list as a argument
     return f_data
 
 
-# func = func(Stocks)
-# for i in func:
-#     print(i)
+func = func(Stocks)
+for i in func:
+    print(i)
