@@ -5,7 +5,9 @@ import requests
 from bs4 import BeautifulSoup
 
 # Input stock-list:
-Stocks = ["RELIANCE", "HDFCBANK", "ADANIPORTS", "ITC", "IOC", "RBLBANK", "SBIN"]
+stocks_name = input("Enter the stock Names separated by a space > ").split()
+Stocks = stocks_name
+print(Stocks)
 
 
 def func(stocks):           # Passing list as a argument
@@ -58,6 +60,6 @@ def func(stocks):           # Passing list as a argument
     return f_data
 
 
-func = func(Stocks)
-for i in func:
-    print(i)
+# func = func(Stocks)
+# for i in func:
+#     print(i)
