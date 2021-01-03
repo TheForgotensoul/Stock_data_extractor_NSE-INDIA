@@ -16,7 +16,7 @@
   </a>
 </p>
 
-> A Python WhatsApp Bomber for spamming victims. This just for educational purpose.And I am not responsible for any damage caused
+> Extract Real Time stock data from NSE India.
 
 ### 🏠 [Homepage](https://github.com/TheForgotensoul/Stock_data_extractor_NSE-INDIA)
 
