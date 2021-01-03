@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Input stock-list:
-stocks_name = input("Enter the stock Names separated by a space > ").split()
+stocks_name = input("\nEnter the stock Names separated by a space > ").split()
 # stocks_name = ["SBIN", "RELIANCE", "ICICIBANK", "TITAN"]
 Stocks = stocks_name
 

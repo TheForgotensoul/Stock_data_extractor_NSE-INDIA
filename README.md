@@ -23,12 +23,13 @@
 ### ✨ [Demo](https://github.com/TheForgotensoul/Stock_data_extractor_NSE-INDIA)
 
 Step 1:
-![step_1]()
+![step_1](https://raw.githubusercontent.com/TheForgotensoul/Stock_data_extractor_NSE-INDIA/main/doc_img/1.png)
 Step 2:
-![step_2]()
+![step_2](https://raw.githubusercontent.com/TheForgotensoul/Stock_data_extractor_NSE-INDIA/main/doc_img/2.png)
 Step 3:
-![step_3]()
-
+![step_3](https://raw.githubusercontent.com/TheForgotensoul/Stock_data_extractor_NSE-INDIA/main/doc_img/3.png)
+Step 4:
+![step_4](https://raw.githubusercontent.com/TheForgotensoul/Stock_data_extractor_NSE-INDIA/main/doc_img/4.png)
 ## Install
 
 ```sh
